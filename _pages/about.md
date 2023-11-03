@@ -29,3 +29,9 @@ Research Experience
 
 Personal Projects
 ======
+
+All my personal projects are hosted on my [GitHub](https://github.com/czy20000902/), here I'd like to list some of the most interesting ones:
+
+* Fine-Grained Visual Categorization: [Project Page](https://github.com/czy20000902/FGVC8)
+* Vehicle Classification Model Based on ResNet and Implicit Semantic Data Augmentation: [Project Page](https://github.com/czy20000902/Vehicle-Classification/)
+* Unified Decoder For Multimodality Data Degmentation: [Project Page](https://github.com/lx709/X-Decoder/)
