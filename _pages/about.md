@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-A data-driven personal website
+About me
 ======
 I'm Zhaoyang Chen, a master's student at Ecole Polytechnique, France. Before coming to Ecole Polytechnique, I obtained
 my Bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications, China. My research
