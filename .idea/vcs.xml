@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Sample4Geo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../X-Decoder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hts-generator" vcs="Git" />
+  </component>
+</project>

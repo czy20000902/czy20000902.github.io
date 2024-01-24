@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Download/image-retrieval-coco_f30k/.idea/CBIR.iml" filepath="$PROJECT_DIR$/../../Download/image-retrieval-coco_f30k/.idea/CBIR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hitshot/.idea/Hitshot.iml" filepath="$PROJECT_DIR$/../Hitshot/.idea/Hitshot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/INF642/.idea/INF642.iml" filepath="$PROJECT_DIR$/../../Study/INF642/.idea/INF642.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Download/LAVIS-main/.idea/LAVIS-main.iml" filepath="$PROJECT_DIR$/../../Download/LAVIS-main/.idea/LAVIS-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Download/Pointnet_Pointnet2_pytorch-master/.idea/Pointnet_Pointnet2_pytorch-master.iml" filepath="$PROJECT_DIR$/../../Download/Pointnet_Pointnet2_pytorch-master/.idea/Pointnet_Pointnet2_pytorch-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sample4Geo/.idea/Sample4Geo.iml" filepath="$PROJECT_DIR$/../Sample4Geo/.idea/Sample4Geo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../X-Decoder/.idea/X-Decoder.iml" filepath="$PROJECT_DIR$/../X-Decoder/.idea/X-Decoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/czy20000902.github.io.iml" filepath="$PROJECT_DIR$/.idea/czy20000902.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homiwoo-msc-ai-vic-transverse-project-2023-geolocalisation/.idea/homiwoo-msc-ai-vic-transverse-project-2023-geolocalisation.iml" filepath="$PROJECT_DIR$/../homiwoo-msc-ai-vic-transverse-project-2023-geolocalisation/.idea/homiwoo-msc-ai-vic-transverse-project-2023-geolocalisation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hts-generator/.idea/hts-generator.iml" filepath="$PROJECT_DIR$/../hts-generator/.idea/hts-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Download/lx709.github.io-main/.idea/lx709.github.io-main.iml" filepath="$PROJECT_DIR$/../../Download/lx709.github.io-main/.idea/lx709.github.io-main.iml" />
+    </modules>
+  </component>
+</project>

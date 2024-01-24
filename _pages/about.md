@@ -34,4 +34,24 @@ All my personal projects are hosted on my [GitHub](https://github.com/czy2000090
 
 * Fine-Grained Visual Categorization: [Project Page](https://github.com/czy20000902/FGVC8)
 * Vehicle Classification Model Based on ResNet and Implicit Semantic Data Augmentation: [Project Page](https://github.com/czy20000902/Vehicle-Classification/)
-* Unified Decoder For Multimodality Data Degmentation: [Project Page](https://github.com/lx709/X-Decoder/)
+
+Publications
+======
+
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/uni3dl.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Uni3DL: Unified Model for 3D and Language Understanding</h3>
+  Xiang Li, Jian Ding, <b>Zhaoyang Chen</b>, Mohamed Elhoseiny.
+  <br>
+  <em>arxiv</em>, 2023
+  <br>
+  <div>
+    <a href="https://uni3dl.github.io/">[project]</a>
+    <a href="https://arxiv.org/abs/2312.03026">[paper]</a>
+  </div>  
+</td>
+</tr>
