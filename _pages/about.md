@@ -24,6 +24,7 @@ Education
 Research Experience
 ======
 
+* Apr 2024 - Sep 2024: Exchange student at LTS5, EPFL (Switzerland)
 * Mar 2023 - Nov 2023: Visiting student at Vision-CAIR, KAUST (Saudi Arabia)
 * Mar 2021 - Dec 2021: Intern researcher at NLPR, Chinese Academy of Science (China)
 
@@ -32,6 +33,7 @@ Personal Projects
 
 All my personal projects are hosted on my [GitHub](https://github.com/czy20000902/), here I'd like to list some of the most interesting ones:
 
+* Uni3DL: Unified Model for 3D and Language Understanding: [Project Page](https://uni3dl.github.io)
 * Fine-Grained Visual Categorization: [Project Page](https://github.com/czy20000902/FGVC8)
 * Vehicle Classification Model Based on ResNet and Implicit Semantic Data Augmentation: [Project Page](https://github.com/czy20000902/Vehicle-Classification/)
 
@@ -47,7 +49,7 @@ Publications
   <h3>Uni3DL: Unified Model for 3D and Language Understanding</h3>
   Xiang Li, Jian Ding, <b>Zhaoyang Chen</b>, Mohamed Elhoseiny.
   <br>
-  <em>arxiv</em>, 2023
+  <em>ECCV</em>, 2024
   <br>
   <div>
     <a href="https://uni3dl.github.io/">[project]</a>
